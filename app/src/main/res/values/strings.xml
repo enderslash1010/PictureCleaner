@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PictureCleaner_enderk2</string>
+    <string name="picture">picture</string>
+    <string name="undo">Undo</string>
+    <string name="could_not_find_photos_on_the_device">Could Not Find Photos on the Device</string>
+    <string name="photo_name">Photo Name</string>
+</resources>
